@@ -1,0 +1,30 @@
+<div className="container">
+                    <div className="row">
+                    <div className="col-sm">
+                        <h4>Network Security</h4>
+                        <p>In an era where technology is a means of survival, network security is pivitol
+        for the longevity of any organization. We offer advanced solutions to maintain
+        the integrity of your network from threat actors ranging from firewalls and routing
+        protocols to access control and network monitoring.</p>
+        <ul>
+            <li>Penetration Testing</li>
+            <li>OSINT information gathering</li>
+            <li>Network Monitoring</li>
+            <li>Traffic analysis</li>
+            <li>Virus and Malware removal</li>
+            <li>Software update and patching</li>
+        </ul>
+                    </div>
+                    <div className="col-sm">
+                        <h4>Remote Assistance</h4>
+                        <p>Remote support leverages remote access software to give the us 
+                            instant access to the remote device from our offices. This means
+                             that we can provide remote assistance without having to travel
+                              to the device.</p>
+                              <p>
+                                Need help with a router, switch, printer, desktop/ laptop, mobile phone,
+                                contact our 24/7 helpdesk support team. Sign up for an account today!
+                              </p>
+                    </div>
+                    </div>
+                    </div>

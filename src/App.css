@@ -1,0 +1,114 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Inter', 'sans-serif';
+  margin: 0;
+  padding: 0;
+  background-color: rgb(172, 198, 211);
+}
+
+
+
+.container .home-img {
+  max-width: 20vh;
+  padding-top: 20px;
+  padding-bottom: 20px;
+ 
+}
+
+.container .col .home-img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+
+
+
+a {
+  height: 20px;
+  width: 100px;
+  
+}
+.slider {
+  width: 100%;
+}
+nav a{
+  color: rgb(18, 17, 17);
+  text-align: center;
+  
+}
+nav a:hover{
+  color: black ;
+  background-color: darkgray;
+  
+}
+footer {
+  text-align: center;
+}
+
+nav.navbar.navbar-expand.navbar-light.bg-dark {
+  background-color: black;
+}
+
+.help-btn{
+  display: flex;
+  align-self: flex-end;
+}
+
+.container{
+  color:rgb(243, 240, 240);
+}
+
+.app-logo {
+  height: 20vmin;
+  align-self: flex-start;
+ 
+}
+
+.content{
+  background-color: #131414 ;
+  min-height: 250px;
+  padding: 10px;
+  
+}
+.content:hover{
+  background-color: rgb(144, 144, 136);
+  color: #0e0f0f;
+}
+
+
+.title{
+  text-align: center;
+  background-color: #080808;
+  
+  padding: 10px;
+}
+
+.title:hover{
+  background-color: rgb(147, 14, 14, 0.25);
+}
+
+
+button{
+  font-weight: 800;
+}
+
+.btn-group a {
+  display: flex;
+  text-decoration: none;
+
+}
+
+.login-btn {
+  display: flex;
+  padding-right: 20px;
+}
+
+button a{
+  text-decoration: none;
+  
+}
+
+.btn-group {
+ display: flex;
+}
